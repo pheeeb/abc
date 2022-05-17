@@ -1,0 +1,51 @@
+@charset "utf-8";
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(without%20music.jpg);
+    color: #FFFFFF;
+}
+header  {
+    background-color: #5F7161;
+    width: auto;
+    color: #FFFFFF;
+    font-style: normal;
+    text-shadow: 0.8px 0.5px #C8BEBF;
+}
+nav   {
+    background-color: #6D8B74;
+    color: #FFFFFF;
+    width: auto;
+}
+nav a:link  {
+    color: #FFFFFF;
+}
+
+main {
+    border-radius: 10px;
+    width: auto;
+}
+
+
+.pics  {
+	background-color: #B9B7C3;
+}
+
+article {
+    background-color: #D0C9C0;
+    text-align: left;
+    color: #FFFFFF;
+    border-width: thin;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-shadow: 1px 1px #A6A6A6;
+}
+nav a:hover {
+    color: #433F36;
+}
+nav a:visited {
+    color: #C1B9BA;
+}
